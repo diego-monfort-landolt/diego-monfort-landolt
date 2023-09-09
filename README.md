@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React **Vite, JavaScript, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://diego-monfort-landolt.github.io/portfoliodiegolandolt/](https://diego-monfort-landolt.github.io/portfoliodiegolandolt/)
+- 👨‍💻 My Portfolio are available at [https://diego-monfort-landolt.github.io/portfoliodiegolandolt/](https://diego-monfort-landolt.github.io/portfoliodiegolandolt/)
 <p align="left">
 </p>
 
