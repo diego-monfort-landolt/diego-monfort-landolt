@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
 
-![image](https://github.com/diego-monfort-landolt/diego-monfort-landolt/assets/75099835/2fb4049d-ea13-49a4-bd0e-691e5a3533f4)
+![useEffect](https://github.com/diego-monfort-landolt/diego-monfort-landolt/assets/75099835/02cd27b7-1f35-4e83-bae2-fcdd00131b30)
 
 
 
