@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
 
-![20170704_212135](https://github.com/diego-monfort-landolt/diego-monfort-landolt/assets/75099835/40028d7a-f975-4fbe-be70-0fedf3c37b8d)
+![image](https://github.com/diego-monfort-landolt/diego-monfort-landolt/assets/75099835/2fb4049d-ea13-49a4-bd0e-691e5a3533f4)
+
+
 
 - 🌱 I’m currently learning React **Vite, JavaScript, TypeScript**
 
