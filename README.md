@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning React ( Vite, JavaScript, TypeScript ) => { I would like to work in this field 🧑🏽‍💻 } ;
+- 🌱 I’m currently learning React Vite, JavaScript  ;
 
 - 👨‍💻 My Portfolio are available at [https://diego-monfort-landolt.github.io/portfoliodiegolandolt/](https://diego-monfort-landolt.github.io/portfoliodiegolandolt/)
 <p align="left">
