@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React Vite, JavaScript  ;
 
-- 👨‍💻 My Portfolio are available at https://diego-monfort-landolt.github.io/
+- 👨‍💻 My Portfolio are available at https://diego-monfort-landolt.github.io/Landoltdiego/
 <p align="left">
 </p>
 
