@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
-!https://media.licdn.com/dms/image/D4E16AQHdGjKn-uBKKw/profile-displaybackgroundimage-shrink_350_1400/0/1709845024773?e=1721260800&v=beta&t=TbHDE8Pja8o9kNeVfG82aTDbx9y7-b1MuKzaBv2eWrE
+![ransomware-2321110_1280](https://github.com/diego-monfort-landolt/diego-monfort-landolt/assets/75099835/f9451586-b31d-4632-8d9d-97d2d0757587)
 
 
 - 🌱 I’m currently learning React Vite, JavaScript  
