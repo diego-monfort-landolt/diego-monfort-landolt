@@ -1,11 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
-<a>
-  (https://media.licdn.com/dms/image/D4E16AQHdGjKn-uBKKw/profile-displaybackgroundimage-shrink_350_1400/0/1709845024773?e=1721260800&v=beta&t=TbHDE8Pja8o9kNeVfG82aTDbx9y7-b1MuKzaBv2eWrE)
-</a>
-
-
+![useEffect]vhttps://media.licdn.com/dms/image/D4E16AQHdGjKn-uBKKw/profile-displaybackgroundimage-shrink_350_1400/0/1709845024773?e=1721260800&v=beta&t=TbHDE8Pja8o9kNeVfG82aTDbx9y7-b1MuKzaBv2eWrE
 
 
 - 🌱 I’m currently learning React Vite, JavaScript  
