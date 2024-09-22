@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm DiegoDev</h1>
-<h3 align="center">A passionate frontend developer from España</h3>
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A passionate Frontend Developer from España</h3>
 
-- 🔭 I’m currently working on [NexTret](IT ServiceDesk L2)
+- 🔭 I’m currently working on NexTret - IT ServiceDesk L2
 
 - 🌱 I’m currently learning **MongoDB and Vue**
 
 - 👯 I’m looking to collaborate on **Frontend & Backend**
 
-- 🤝 I’m looking for help with **my NAV...**
+- 🤝 I’m looking for help with **find a Job...**
 
 - 👨‍💻 All of my projects are available at [https://diego-monfort-landolt.github.io/Landoltdiego/](https://diego-monfort-landolt.github.io/Landoltdiego/)
 
-- 💬 Ask me about **React, JS and CSS**
+- 💬 Ask me about **React- Vite, Typescript, JavaScript and HTML - CSS**
 
 
 <p align="left">
