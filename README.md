@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **find a Job...**
 
-- 👨‍💻 All of my projects are available at [https://diego-monfort-landolt.github.io/Landoltdiego-Home]
+- 👨‍💻 All of my projects are available at https://diego-monfort-landolt.github.io/Landoltdiego
 
 - 💬 Ask me about **React- Vite, Typescript, JavaScript and HTML - CSS**
 
