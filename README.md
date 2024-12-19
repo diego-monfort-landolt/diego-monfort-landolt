@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Frontend Developer from España</h3>
 
-- 🔭 I’m currently working on NexTret - IT ServiceDesk L2
+- 🔭 I’m currently working on NexTret - IT ServiceDesk L1/ L2
 
-- 🌱 I’m currently learning **MongoDB and Vue**
+- 🌱 I’m currently learning **MongoDB and Typescript
 
 - 👯 I’m looking to collaborate on **Frontend & Backend**
-
-- 🤝 I’m looking for help with **find a Job...**
 
 - 👨‍💻 All of my projects are available at https://diego-monfort-landolt.github.io/Landoltdiego
 
