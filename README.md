@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
+
 <h3 align="center">A passionate Frontend Developer from España</h3>
-<div align="center">
+
 - 🔭 I’m currently working on NexTret - IT ServiceDesk L1/ L2
 
 - 🌱 I’m currently learning **MongoDB and Typescript
@@ -10,7 +11,7 @@
 - 👨‍💻 All of my projects are available at https://diego-monfort-landolt.github.io/Landoltdiego
 
 - 💬 Ask me about **React- Vite, Typescript, JavaScript and HTML - CSS**
-</div>
+
 
 <p align="left">
 </p>
