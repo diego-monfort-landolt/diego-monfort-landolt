@@ -17,10 +17,10 @@ Feel free to reach out about:
 ## 🚀 Languages and Tools I Use
 | Frontend | Backend | Tools & Platforms       |
 |----------|---------|-------------------------|
-| React    | Node.js | AWS, Azure, Firebase    |
-| Angular  | Express | Photoshop, Figma        |
+| React    | Node.js | AWS, Azure, oneIM       |
+| Angular  | Express | Photoshop, Canva        |
 | HTML5    | PHP     | Git, Bash, MySQL        |
-| CSS3     | MongoDB | CanvasJS, Electron      |
+| CSS3     | MongoDB | JavaScript, Typescript  |
 
 ## 🌍 Let's Connect!
 I'm always excited to meet like-minded developers and exchange ideas. Feel free to contact me or ask questions—I'm here to help!
