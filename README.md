@@ -1,8 +1,9 @@
 
-<div style="display: flex; align-items: center;">
-    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Logo" style="width: 50px; height: auto; margin-right: 10px;">
-    <h1 style="margin: 0;">Hi 👋, I'm Diego Monfort Landolt</h1>
-</div>
+<h1 style="display: inline-block;">
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; margin-right: 10px;">
+    Hi 👋, I'm Diego Monfort Landolt
+</h1>
+
 
 
 <p align="left">
