@@ -8,7 +8,7 @@
 I'm a passionate Frontend Developer based in España. With a knack for combining creativity and technical expertise, I'm dedicated to building user-friendly, cutting-edge web solutions.
 
 <p align="center">
-    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="80%">
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="80%">
 </p>
 
 
