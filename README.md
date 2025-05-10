@@ -1,6 +1,6 @@
 
 <h1 style="display: inline-block;">
-    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; height: 40px; background-size: cover; margin-right: 10px;">
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; height: 40px; background-size: cover; margin-right: 10px;margin-bottom: -5px;">
     Hey there 👋 I’m Diego, a Creative Frontend Developer who Turns Ideas into Code 💻 🚀
 </h1>
 
