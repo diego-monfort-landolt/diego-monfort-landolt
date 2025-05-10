@@ -1,10 +1,14 @@
-# Hi 👋, I'm Diego
+# Hi 👋, I'm Diego Monfort Landolt
+
+<p align="left">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%">
+</p>
+
 
 I'm a passionate Frontend Developer based in España. With a knack for combining creativity and technical expertise, I'm dedicated to building user-friendly, cutting-edge web solutions.
-![Beschreibung des Bildes]([https://example.com/bild.jpg](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png))
 
 <p align="center">
-    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="100%">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="80%">
 </p>
 
 
