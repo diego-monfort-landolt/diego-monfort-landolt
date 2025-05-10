@@ -1,6 +1,12 @@
 # Hi 👋, I'm Diego
 
 I'm a passionate Frontend Developer based in España. With a knack for combining creativity and technical expertise, I'm dedicated to building user-friendly, cutting-edge web solutions.
+![Beschreibung des Bildes]([https://example.com/bild.jpg](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png))
+
+<p align="center">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="100%">
+</p>
+
 
 ## 🌟 About Me
 - **🔭 Current Role:** Working at **NexTret** as IT ServiceDesk L1/L2.
