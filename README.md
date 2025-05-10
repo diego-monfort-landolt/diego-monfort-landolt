@@ -1,11 +1,12 @@
+<p align="left">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego Landolt Monfort - Frontend Developer" width="20%">
+</p>
 
-| ![GitHub Logo](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png) | **Hi 👋, I'm Diego Monfort Landolt** |
 |----------------------------------------|--------------------------------|
 
+| **Hi 👋, I'm Diego Monfort Landolt, a passionate Frontend Developer** |
+|:------------------------------------:|
 
-<p align="left">
-    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%">
-</p>
 
 # Hi 👋, I'm Diego Monfort Landolt
 
