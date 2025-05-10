@@ -1,7 +1,7 @@
 
 <h1 style="display: inline-block;">
     <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; height: auto; margin-right: 10px;">
-    Hi 👋, I'm Diego Monfort Landolt, Frontend Developer 🚀
+    Hey there 👋 I’m Diego, a Creative Frontend Developer who Turns Ideas into Code 💻 🚀
 </h1>
 
 I'm a passionate Frontend Developer based in Spain with a background in IT support (Level 2 Helpdesk) and a strong drive to grow in the world of software development. 
