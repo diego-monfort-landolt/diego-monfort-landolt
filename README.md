@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center;">
-    <img src="URL_zum_Bild.jpg" alt="Beschreibung des Bildes" width="10%">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Beschreibung des Bildes" width="10%">
     <h1 style="margin-left: 10px;"> Hi 👋, I'm Diego Monfort Landolt</h1>
 </div>
 
