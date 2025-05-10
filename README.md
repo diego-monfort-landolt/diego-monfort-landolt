@@ -1,18 +1,11 @@
 
 <h1 style="display: inline-block;">
-    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; margin-right: 10px;">
-    Hi 👋, I'm Diego Monfort Landolt
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" style="width: 50px; height: auto; margin-right: 10px;">
+    Hi 👋, I'm Diego Monfort Landolt, Frontend Developer 🚀
 </h1>
 
-
-
-<p align="left">
-    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%" height: 5%>
-</p>
-
-# Hi 👋, I'm Diego Monfort Landolt
-
-I'm a passionate Frontend Developer based in Spain with a background in IT support (Level 2 Helpdesk) and a strong drive to grow in the world of software development. I speak German, Spanish, and English fluently, and I love bridging communication and technology across cultures and platforms.
+I'm a passionate Frontend Developer based in Spain with a background in IT support (Level 2 Helpdesk) and a strong drive to grow in the world of software development. 
+**I speak German, Spanish, and English fluently** and I love bridging communication and technology across cultures and platforms.
 
 ### With hands-on experience in:
 
@@ -25,7 +18,6 @@ I'm a passionate Frontend Developer based in Spain with a background in IT suppo
 **And a deep interest in all things IT and web development**
 
 I'm constantly learning and expanding my skills to stay on the cutting edge of frontend technologies.
-
 
 <p align="center">
     <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego Landolt Monfort - Frontend Developer" width="20%">
