@@ -1,24 +1,28 @@
+
 <p align="left">
-    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego Landolt Monfort - Frontend Developer" width="20%">
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%" height: 5%>
 </p>
-
-|----------------------------------------|--------------------------------|
-
-| **Hi 👋, I'm Diego Monfort Landolt, a passionate Frontend Developer** |
-|:------------------------------------:|
-
 
 # Hi 👋, I'm Diego Monfort Landolt
 
+I'm a passionate Frontend Developer based in Spain with a background in IT support (Level 2 Helpdesk) and a strong drive to grow in the world of software development. I speak German, Spanish, and English fluently, and I love bridging communication and technology across cultures and platforms.
+
+### With hands-on experience in:
+
+- ** HTML, CSS, JavaScript
+
+- ** React, Vite, TypeScript
+
+- ** Node.js, SQL, MySQL
+
+**And a deep interest in all things IT and web development**
+
+I'm constantly learning and expanding my skills to stay on the cutting edge of frontend technologies.
 
 
-
-I'm a passionate Frontend Developer based in España. With a knack for combining creativity and technical expertise, I'm dedicated to building user-friendly, cutting-edge web solutions.
-
-<p align="center">
-    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%" height: 20%>
+<p align="left">
+    <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego Landolt Monfort - Frontend Developer" width="20%">
 </p>
-
 
 ## 🌟 About Me
 - **🔭 Current Role:** Working at **NexTret** as IT ServiceDesk L1/L2.
