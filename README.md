@@ -1,4 +1,10 @@
 
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Logo" style="width: 50px; height: auto; margin-right: 10px;">
+    <h1 style="margin: 0;">Hi 👋, I'm Diego Monfort Landolt</h1>
+</div>
+
+
 <p align="left">
     <img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_640.png" alt="Github Logo von PixaBay - Diego LAndolt Monfort -Frontend Developer" width="20%" height: 5%>
 </p>
@@ -20,7 +26,7 @@ I'm a passionate Frontend Developer based in Spain with a background in IT suppo
 I'm constantly learning and expanding my skills to stay on the cutting edge of frontend technologies.
 
 
-<p align="left">
+<p align="center">
     <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_640.png" alt="Github Logo von PixaBay - Diego Landolt Monfort - Frontend Developer" width="20%">
 </p>
 
