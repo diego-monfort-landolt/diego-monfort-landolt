@@ -30,7 +30,7 @@ Feel free to reach out about:
 | Frontend | Backend | Tools & Platforms       |
 |----------|---------|-------------------------|
 | React    | Node.js | AWS, Azure, oneIM       |
-| Python   | sqlite3 | Git, Bash, MySQL        |
+| Python   | sqlite3 | Git, Bash               |
 | Angular  | Express | Photoshop, Canva        |
 | HTML5    | PHP     | Mysql, SQL              |
 | CSS3     | MongoDB | JavaScript, Typescript  |
